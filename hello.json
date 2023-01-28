@@ -1,9 +1,8 @@
-0	
-id	1
-title	"Post 1"
-1	
-id	2
-title	"Post 2"
-2	
-id	3
-title	"Post 3"
+[
+  {
+    "name":"per",
+    "email":"helloe@mailmail.com",
+    "phoneNumber":"44455666",
+    "feedback":"very nice"
+  }
+]
