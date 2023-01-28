@@ -1,8 +1,10 @@
-[
-  {
-    "name":"per",
-    "email":"helloe@mailmail.com",
-    "phoneNumber":"44455666",
-    "feedback":"very nice"
-  }
-]
+{
+  "tilbakemeldinger": [
+    {
+      "name": 1,
+      "email": "hello",
+      "phoneNumber": "hello",
+      "feedback": "hello"
+    }
+  ]
+}
