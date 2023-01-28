@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "tilbakemeldinger": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": 1,
+      "email": "hello",
+      "phoneNumber": "hello",
+      "feedback": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
